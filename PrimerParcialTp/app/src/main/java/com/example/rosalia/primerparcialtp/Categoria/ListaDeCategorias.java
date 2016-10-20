@@ -57,6 +57,12 @@ public class ListaDeCategorias extends AppCompatActivity implements MyOnItemClic
         modeloCategorias.add(new ModeloCategoria("Categoria 2", "Esta es una breve descrpcion de la categoria"));
         modeloCategorias.add(new ModeloCategoria("Categoria 3", "Esta es una breve descrpcion de la categoria"));
         modeloCategorias.add(new ModeloCategoria("Categoria 4", "Esta es una breve descrpcion de la categoria"));
+        modeloCategorias.add(new ModeloCategoria("Categoria 5", "Esta es una breve descrpcion de la categoria"));
+        modeloCategorias.add(new ModeloCategoria("Categoria 6", "Esta es una breve descrpcion de la categoria"));
+        modeloCategorias.add(new ModeloCategoria("Categoria 7", "Esta es una breve descrpcion de la categoria"));
+        modeloCategorias.add(new ModeloCategoria("Categoria 8", "Esta es una breve descrpcion de la categoria"));
+        modeloCategorias.add(new ModeloCategoria("Categoria 9", "Esta es una breve descrpcion de la categoria"));
+        modeloCategorias.add(new ModeloCategoria("Categoria 10", "Esta es una breve descrpcion de la categoria"));
 
         RecyclerView list = (RecyclerView)findViewById(R.id.list_item);
 
